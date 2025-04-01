@@ -1,0 +1,49 @@
+button {
+    background-color: blueviolet;
+    color: white;
+}
+
+header {
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: right;
+}
+  
+li a {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    padding: 18px 22px;
+}
+
+.banner {
+    color: white;
+    font-weight: bold;
+    background-image: url("../html_advanced/assets/photo-noir-et-blanc.png");
+}
+
+.logo {
+    float: left;
+}
+
+.span-text {
+    color: blueviolet;
+}
+
+.quote {
+    background-color: blueviolet;
+    color: white;
+}
+
+.italic-text {
+    font-style: italic;
+}
